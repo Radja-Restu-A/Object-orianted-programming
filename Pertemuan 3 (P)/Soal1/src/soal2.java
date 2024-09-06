@@ -1,7 +1,7 @@
 /**
  Nama  : Radja Restu Arsita
  Kelas : 2B - D3
- Pengoptimalan penggunaan jenis variabel
+ input & output (2)
 **/
 
 import java.util.Scanner;
