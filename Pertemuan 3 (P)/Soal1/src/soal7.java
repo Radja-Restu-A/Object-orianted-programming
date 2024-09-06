@@ -1,3 +1,9 @@
+/**
+ Nama  : Radja Restu Arsita
+ Kelas : 2B - D3
+ Array
+**/
+
 public class soal7
 {
     public static void main(String[] args)
@@ -23,6 +29,7 @@ public class soal7
         int[][][] threeDimensionalArray = {twoDimensionalArray1,
                 twoDimensionalArray2, twoDimensionalArray3};
 
+        //algoritma utama
         for(int i = 0; i<3 ; i++){
             System.out.print("{");
             for(int j = 0; j<3 ; j++) {
